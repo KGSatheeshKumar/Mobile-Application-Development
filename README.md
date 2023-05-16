@@ -131,6 +131,11 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT
 ![mobileex1](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/b0e0160b-6686-4789-862e-516480fcf393)
 ![ex1](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/67ca0165-7161-489a-a30d-0eef2d8f0472)
+![ex1-2](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/1df48ed5-1ed9-41ee-9ced-34378238ddee)
+![ex1-3](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/fbf187c0-d7da-4e34-9817-f557cbcf8ab1)
+![ex1-4](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/6b064ccc-9bf8-42fc-8469-db26087d207d)
+![ex1-5](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/1c376ce7-b85b-4a7d-aff1-5baf9e1b4df3)
+![ex1-6](https://github.com/KGSatheeshKumar/Mobile-Application-Development/assets/128453421/126b1517-a05a-4ca4-ab74-0fabbdb88391)
 
 
 ## RESULT
