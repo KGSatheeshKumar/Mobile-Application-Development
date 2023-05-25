@@ -1,11 +1,11 @@
-EX-02 :-
+##EX-02 :-
 
-To develop an application that uses GUI Components with Fonts and Colors.
+##To develop an application that uses GUI Components with Fonts and Colors.
 
-AIM :- 
+##AIM :- 
 To develop an application that uses GUI Components with Fonts and Colors
 
-MAINACTIVITY.JAVA :-
+##MAINACTIVITY.JAVA :-
 
 package com.example.ex2;
 
@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 }
 
 
-ACTIVITYMAIN.XML :-
+##ACTIVITYMAIN.XML :-
 
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
@@ -104,7 +104,7 @@ ACTIVITYMAIN.XML :-
         app:layout_constraintTop_toBottomOf="@+id/fonbut" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 
-IMAGE:-
+##IMAGE:-
 
 
 
